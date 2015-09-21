@@ -1,18 +1,22 @@
 {
-  "name": "MEAN_MVC_4thTutorial",
+  "name": "mean-todo-on-bluemix",
   "version": "0.0.0",
-  "homepage": "https://github.com/Hitman666/MEAN_MVC_4thTutorial",
+  "homepage": "https://github.com/alperg/mean-todo-on-bluemix",
   "authors": [
-    "Hitman666 <nikola.breznjak@gmail.com>"
+    "Nikola Brežnjak <nikola.breznjak@gmail.com>",
+    "Alper Gokcehan <mail@alperg.com>"
   ],
-  "description": "4th Tutorial covering the Angular part of the MEAN stack in becomming a full stack JS developer",
+  "description": "Todo application with MEAN stack on IBM Bluemix",
   "main": "bower.json",
   "moduleType": [
     "node"
   ],
   "keywords": [
     "MEAN",
-    "MVC"
+    "MVC",
+    "bluemix",
+    "bluemix sample",
+    "bluemix pipeline"
   ],
   "license": "MIT",
   "ignore": [

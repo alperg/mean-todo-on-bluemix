@@ -1,25 +1,31 @@
 {
-  "name": "MEAN_MVC_4thTutorial",
+  "name": "mean-todo-on-bluemix",
   "version": "1.0.0",
-  "description": "Code acompanying the [third blog post](not yet published)",
+  "description": "Todo application with MEAN stack on IBM Bluemix",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hitman666/MEAN_MVC_4thTutorial.git"
+    "url": "https://github.com/alperg/mean-todo-on-bluemix.git"
   },
   "keywords": [
     "MEAN",
-    "MVC"
+    "MVC",
+    "bluemix",
+    "bluemix sample",
+    "bluemix pipeline"
   ],
-  "author": "Nikola Brežnjak <nikola.breznjak@gmail.com> (http://www.nikola-breznjak.com/)",
+  "author": "Nikola Brežnjak <nikola.breznjak@gmail.com>",
+  "contributors": [
+  {
+    "name": "Alper Gokcehan",
+    "email": "mail@alperg.com"
+  }
+],
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Hitman666/MEAN_MVC_4thTutorial/issues"
-  },
-  "homepage": "https://github.com/Hitman666/MEAN_MVC_4thTutorial",
+  "homepage": "https://github.com/alperg/mean-todo-on-bluemix",
   "dependencies": {
     "body-parser": "^1.10.1",
     "connect-flash": "^0.1.1",
